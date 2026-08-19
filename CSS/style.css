@@ -51,12 +51,7 @@ body {
 @media (max-width: 767px) {
   .container {
     width: 350px;
-    margin: 120px auto 0;
-  }
-}
-@media (max-width: 991px) {
-  .container {
-    margin: 250px auto 0;
+    margin: 100px auto 0;
   }
 }
 .container h1 {
