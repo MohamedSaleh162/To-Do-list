@@ -123,6 +123,11 @@ input[type="submit"]:hover {
   background-color: #1f6feb;
   border-radius: 15px;
 }
+@media (max-width: 767px) {
+  .container ul {
+    margin-left: -15px;
+  }
+}
 .footer {
   display: flex;
   justify-content: space-between;
